@@ -14,19 +14,18 @@ Before replacing the grades, Thomas High School was the second high school in te
 
 4- How does replacing the ninth-grade scores affect the following:
 
-Math and reading scores by grade:
+- Math and reading scores by grade:
 The grades have not changed since the ninth grades were replaced with NaN and no other grade has been changed.
-Scores by school spending:
+- Scores by school spending:
 The scores by school type have not changed, since very small amount of data have been removed from the dataset. Image0
-Scores by school size:
+- Scores by school size:
 The scores by school size have not changed, because the size of grade 9 students from Thomas High School were very small compared to the number of total students across all schools, as shown below.
-Image1
-Scores by school type:
-The scores by school type have not changed, since very small amount of data have been removed from the dataset, as shown below. Image2
+- Scores by school type:
+The scores by school type have not changed, since very small amount of data have been removed from the dataset, as shown below. 
 ## Summary
 The four changes to the school district analysis after reading and math scores have been replaced are as follows:
 
-Before removing grade nine scores, the average math score was 83.42, however, after replacing the scores, the score dropped slightly to 83.35.
-Before removing grade nine scores, the average reading score was 83.85, however, after replacing the scores, the score increased slightly to 83.90.
-Before removing grade nine scores, the % passing math was 93.27, however, after replacing the scores, the score decreased to 93.19.
-Before removing grade nine scores, the % overall passing was 90.95, however, after replacing the scores, the score dropped slightly to 90.63.
+- Before removing grade nine scores, the average math score was 83.42, however, after replacing the scores, the score dropped slightly to 83.35.
+- Before removing grade nine scores, the average reading score was 83.85, however, after replacing the scores, the score increased slightly to 83.90.
+- Before removing grade nine scores, the % passing math was 93.27, however, after replacing the scores, the score decreased to 93.19.
+- Before removing grade nine scores, the % overall passing was 90.95, however, after replacing the scores, the score dropped slightly to 90.63.
